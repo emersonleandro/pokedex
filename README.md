@@ -1,0 +1,2 @@
+# pokedex
+ pokemons na pokedex
